@@ -1,7 +1,7 @@
 # Written by 辣椒酱
 # Date ：2019-10-29
 # Uage ：python3 e-cology_disclosure.py -u url
-# Source ：
+# Source ：https://github.com/Paper-Pen/TimelineSec_POC/tree/master/%E6%B3%9B%E5%BE%AE%E6%BC%8F%E6%B4%9E
 
 from pyDes import *
 import sys
